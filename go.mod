@@ -1,4 +1,4 @@
-module github.com/urfave/cli
+module github.com/swaggo/cli
 
 go 1.10
 
